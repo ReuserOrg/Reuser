@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ReuserOrg/Reuser.png?label=ready&title=Ready)](https://waffle.io/ReuserOrg/Reuser)
 ![Reuser](https://github.com/Olwiba/Reuser/blob/master/resources/images/Reuser.png?raw=true "Reuser")
 
 //Who
