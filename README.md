@@ -59,6 +59,10 @@ To contribute it's easy!
 
 Come join us over on [our Slack team page](https://reuser.slack.com).
 
+### Waffle
+
+Here is a link to the waffle board for Reuser: https://waffle.io/ReuserOrg/Reuser
+
 ### Technologies
 
 - Node
