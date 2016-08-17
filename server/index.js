@@ -1,6 +1,5 @@
 const express = require('express')
 const path = require('path')
-const colors = require('colors')
 const chalk = require('chalk')
 
 const gray = chalk.gray
