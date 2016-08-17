@@ -1,6 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/ReuserOrg/Reuser.png?label=ready&title=Ready)](https://waffle.io/ReuserOrg/Reuser)
-[![Stories in Ready](https://badge.waffle.io/ReuserOrg/Reuser.png?label=ready&title=Ready)](https://waffle.io/ReuserOrg/Reuser)
-![Reuser](https://github.com/Olwiba/Reuser/blob/master/resources/images/Reuser.png?raw=true "Reuser")
+![Reuser](https://github.com/Olwiba/Reuser/blob/master/public/resources/images/logo.svg?raw=true "Reuser")
 
 //Who
 
@@ -8,7 +6,10 @@
 
 This is a collaborative project build by a range of developers that wanted to use their skills to create something that could help change the world. 
 At this time the major the developers that have contributed to the development of Reuser are:
-- Ollie Bannister (Founder)
+
+- Ollie Bannister / Olwiba / Olwiba@gmail.com (Founder)
+- Cam Hawkes / Camcan / Mr.Campbell.Hawkes@gmail.com
+- Sean Johnson / sean-johnson / Hello@Seanjohnson.com
 
 //What
 
@@ -59,10 +60,6 @@ To contribute it's easy!
 ### Come Chat
 
 Come join us over on [our Slack team page](https://reuser.slack.com).
-
-### Waffle
-
-Here is a link to the waffle board for Reuser: https://waffle.io/ReuserOrg/Reuser
 
 ### Technologies
 
