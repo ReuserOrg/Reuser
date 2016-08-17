@@ -1,0 +1,328 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="3 -13 1920 3547">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Reuser_Splash_Page);
+      }
+
+      .cls-17, .cls-2 {
+        fill: #5ef38c;
+      }
+
+      .cls-3 {
+        fill: #f2f2f2;
+      }
+
+      .cls-4 {
+        fill: #2a3d45;
+      }
+
+      .cls-5 {
+        fill: #f1f2f2;
+      }
+
+      .cls-15, .cls-20, .cls-23, .cls-6, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-13, .cls-14, .cls-19, .cls-24, .cls-28, .cls-30, .cls-31, .cls-34, .cls-38, .cls-7 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke: #405d49;
+      }
+
+      .cls-13, .cls-34, .cls-7 {
+        stroke-width: 3px;
+      }
+
+      .cls-8 {
+        fill: #335145;
+      }
+
+      .cls-12, .cls-16, .cls-17, .cls-18, .cls-25, .cls-27, .cls-29, .cls-8 {
+        font-size: 22px;
+      }
+
+      .cls-12, .cls-17, .cls-18, .cls-25, .cls-27, .cls-29, .cls-33, .cls-8 {
+        font-family: Karla-Regular, Karla;
+      }
+
+      .cls-9 {
+        font-size: 23px;
+        font-family: Colfax-Regular, Colfax;
+      }
+
+      .cls-10, .cls-32 {
+        fill: #f0c808;
+      }
+
+      .cls-11, .cls-16, .cls-21, .cls-22, .cls-25, .cls-26 {
+        fill: #19323c;
+      }
+
+      .cls-11, .cls-23 {
+        font-size: 35px;
+      }
+
+      .cls-11, .cls-16, .cls-20, .cls-21, .cls-23 {
+        font-family: Colfax-Medium, Colfax;
+        font-weight: 500;
+      }
+
+      .cls-12 {
+        fill: #b2b2b2;
+      }
+
+      .cls-13, .cls-14 {
+        stroke: #5ef38c;
+      }
+
+      .cls-14, .cls-15, .cls-24, .cls-26, .cls-28, .cls-30, .cls-31, .cls-32 {
+        stroke-width: 2px;
+      }
+
+      .cls-15 {
+        stroke: #d8d8d8;
+      }
+
+      .cls-18 {
+        fill: rgba(25,50,60,0.58);
+      }
+
+      .cls-19 {
+        stroke: #fff;
+        stroke-width: 5px;
+      }
+
+      .cls-20, .cls-21 {
+        font-size: 45px;
+      }
+
+      .cls-24 {
+        stroke: #19323c;
+      }
+
+      .cls-24, .cls-28, .cls-30, .cls-31 {
+        opacity: 0.457;
+      }
+
+      .cls-26, .cls-32 {
+        stroke: #2a3d45;
+      }
+
+      .cls-27 {
+        fill: #7befb2;
+      }
+
+      .cls-28 {
+        stroke: #4789a3;
+      }
+
+      .cls-29 {
+        fill: #d7fff1;
+      }
+
+      .cls-30 {
+        stroke: #588ea5;
+      }
+
+      .cls-31 {
+        stroke: #5f9bb4;
+      }
+
+      .cls-33 {
+        fill: rgba(242,242,242,0.58);
+        font-size: 20px;
+      }
+
+      .cls-34 {
+        stroke: #f0c808;
+      }
+
+      .cls-35, .cls-36 {
+        fill: #59b283;
+      }
+
+      .cls-35 {
+        opacity: 0.166;
+      }
+
+      .cls-36 {
+        opacity: 0.083;
+      }
+
+      .cls-37 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Reuser_Splash_Page">
+      <rect x="3" y="-13" width="1920" height="3547"/>
+    </clipPath>
+  </defs>
+  <g id="Reuser_Splash_Page" data-name="Reuser Splash Page" class="cls-1">
+    <rect class="cls-6" x="3" y="-13" width="1920" height="3547"/>
+    <rect id="rectangle-1" class="cls-2" width="1920" height="901" transform="translate(3 -13)"/>
+    <rect id="rectangle-1-2" data-name="rectangle-1" class="cls-3" width="1920" height="225" transform="translate(3 1322)"/>
+    <rect id="rectangle-1-3" data-name="rectangle-1" class="cls-4" width="1920" height="100" transform="translate(3 -13)"/>
+    <g id="group-5" transform="translate(-6 -10)">
+      <path id="path" class="cls-5" d="M-2815.46,3757.29" transform="translate(2928.998 -3716.526)"/>
+      <path id="path-2" data-name="path" class="cls-6" d="M-2827.356,3771.206h-5.884V3749.73h5.877Z" transform="translate(2935.72 -3713.668)"/>
+      <path id="path-3" data-name="path" class="cls-6" d="M-2786.664,3762.111h-15.095a5.467,5.467,0,0,0,2.146,3.147,6.685,6.685,0,0,0,3.924,1.107,9.651,9.651,0,0,0,5.99-2.171l2.432,3.993a13,13,0,0,1-8.589,3.209,11.615,11.615,0,0,1-8.415-3.235,10.692,10.692,0,0,1-3.34-8,10.89,10.89,0,0,1,3.234-7.98,10.834,10.834,0,0,1,8-3.253,9.786,9.786,0,0,1,7.289,2.862,9.741,9.741,0,0,1,2.817,7.115A13.9,13.9,0,0,1-2786.664,3762.111Zm-13.185-7.289a6,6,0,0,0-1.909,3.166h9.8a4.11,4.11,0,0,0-1.387-3.166,4.782,4.782,0,0,0-3.253-1.17A4.888,4.888,0,0,0-2799.85,3754.821Z" transform="translate(2926.032 -3713.361)"/>
+      <path id="path-4" data-name="path" class="cls-6" d="M-2749.332,3761.7a9.684,9.684,0,0,1-2.8,7.221,9.641,9.641,0,0,1-7.047,2.755,9.788,9.788,0,0,1-7.134-2.73,9.663,9.663,0,0,1-2.8-7.246V3749.68h5.859v12.5a4,4,0,0,0,1.151,2.991,4.005,4.005,0,0,0,2.929,1.126,3.9,3.9,0,0,0,2.843-1.125,4.008,4.008,0,0,0,1.151-2.992v-12.5h5.859Z" transform="translate(2911.476 -3713.649)"/>
+      <path id="path-5" data-name="path" class="cls-6" d="M-2717.309,3752.107l-2.948,3.6a6.88,6.88,0,0,0-4.814-2.04q-2.3,0-2.3,1.518a1.244,1.244,0,0,0,.5,1.02,6.609,6.609,0,0,0,1.754.889l2.084.871a13.784,13.784,0,0,1,4.578,2.711,5.193,5.193,0,0,1,1.456,3.838,6,6,0,0,1-2.364,5.031,9.56,9.56,0,0,1-6.008,1.822,10.523,10.523,0,0,1-8.894-4.167l2.948-3.557a8.346,8.346,0,0,0,6.027,2.9,3.82,3.82,0,0,0,1.953-.454,1.45,1.45,0,0,0,.784-1.324,1.244,1.244,0,0,0-.5-1.063,9.247,9.247,0,0,0-1.71-.889l-2.3-.952a13.269,13.269,0,0,1-4.4-2.687,5.268,5.268,0,0,1-1.456-3.862,5.691,5.691,0,0,1,2.189-4.752,9,9,0,0,1,5.7-1.71A9.847,9.847,0,0,1-2717.309,3752.107Z" transform="translate(2898.305 -3713.333)"/>
+      <path id="path-6" data-name="path" class="cls-6" d="M-2683.154,3762.111h-15.095a5.475,5.475,0,0,0,2.146,3.147,6.69,6.69,0,0,0,3.925,1.107,9.651,9.651,0,0,0,5.989-2.171l2.432,3.993a13,13,0,0,1-8.589,3.209,11.613,11.613,0,0,1-8.415-3.235,10.691,10.691,0,0,1-3.34-8,10.889,10.889,0,0,1,3.234-7.979,10.826,10.826,0,0,1,8-3.253,9.784,9.784,0,0,1,7.289,2.861,9.737,9.737,0,0,1,2.818,7.115,13.863,13.863,0,0,1-.4,3.21Zm-13.186-7.289a6,6,0,0,0-1.909,3.166h9.8a4.111,4.111,0,0,0-1.387-3.166,4.782,4.782,0,0,0-3.253-1.169,4.887,4.887,0,0,0-3.259,1.169Z" transform="translate(2886.901 -3713.361)"/>
+      <path id="path-7" data-name="path" class="cls-6" d="M-2819.66,3751.292v3.626h3.626c2.874,0,4.976-3.315,2.675-6.332C-2816.345,3746.316-2819.66,3748.418-2819.66,3751.292Z" transform="translate(2930.586 -3712.873)"/>
+      <path id="path-8" data-name="path" class="cls-6" d="M-2658.141,3760.46v10.716H-2664V3749.7h5.877Z" transform="translate(2871.74 -3713.656)"/>
+      <path id="path-9" data-name="path" class="cls-6" d="M-2650.41,3751.292v3.626h3.626c2.874,0,4.976-3.315,2.674-6.332C-2647.095,3746.316-2650.41,3748.418-2650.41,3751.292Z" transform="translate(2866.602 -3712.873)"/>
+      <path id="path-10" data-name="path" class="cls-2" d="M-2892.187,3762.228l.323-.572a18.034,18.034,0,0,0,2.407-8.987c0-9.952-7.339-17.508-17.066-17.508a18.931,18.931,0,0,0-16.681,10.032l-.224.448a5.72,5.72,0,0,0-.622,2.544v18.285c0,1.549,1.63,3.98,1.63,3.98s2.488,1.71,4.068,1.71l22.241-.056a5.677,5.677,0,0,0,5.261-3.514,5.659,5.659,0,0,0-.926-5.877Zm-6.219.473,2.258,2.258a.913.913,0,0,1,.2.985.915.915,0,0,1-.826.576h-9.883a.915.915,0,0,1-.914-.915v-9.883a.913.913,0,0,1,.575-.825.915.915,0,0,1,.986.2l2.146,2.146a.9.9,0,0,0,.683.266.9.9,0,0,0,.655-.329,6.909,6.909,0,0,0,1.636-4.422c0-3.682-2.22-6.064-5.647-6.064a7.3,7.3,0,0,0-5.877,2.923.909.909,0,0,0-.187.554v15.505a.914.914,0,0,1-.914.914h-4.08a.914.914,0,0,1-.914-.914v-17.116a.915.915,0,0,1,.093-.411l.211-.429a13.31,13.31,0,0,1,11.662-6.947c6.7,0,11.556,5.038,11.556,11.973a13.061,13.061,0,0,1-3.452,8.708.908.908,0,0,0,.05,1.244Z" transform="translate(2970.05 -3708.16)"/>
+    </g>
+    <g id="group-6" transform="translate(16 -13)">
+      <g id="rectangle-3" class="cls-7" transform="translate(349 547.274)">
+        <rect class="cls-37" width="136.16" height="61.726" rx="6" ry="6"/>
+        <rect class="cls-38" x="1.5" y="1.5" width="133.16" height="58.726" rx="4.5" ry="4.5"/>
+      </g>
+      <text id="Explore" class="cls-8" transform="translate(378.955 583.613)"><tspan x="0" y="0">Explore</tspan></text>
+    </g>
+    <text id="About" class="cls-9" transform="translate(1522 43)"><tspan x="0" y="0">About</tspan></text>
+    <text id="About-2" data-name="About" class="cls-9" transform="translate(1627 43)"><tspan x="0" y="0">Collaborate</tspan></text>
+    <text id="About-3" data-name="About" class="cls-9" transform="translate(1786 43)"><tspan x="0" y="0">Contact</tspan></text>
+    <rect id="rectangle-1-4" data-name="rectangle-1" class="cls-4" width="1920" height="527" transform="translate(3 3007)"/>
+    <rect id="rectangle-1-5" data-name="rectangle-1" class="cls-6" width="1920" height="304" transform="translate(3 2190)"/>
+    <rect id="rectangle-1-6" data-name="rectangle-1" class="cls-10" width="1920" height="643" transform="translate(3 1547)"/>
+    <g id="group-7" transform="translate(3 -54)">
+      <text id="A_nice_heading_" data-name="A nice heading
+" class="cls-11" transform="translate(973 1047)"><tspan x="-205.83" y="0">We’re making it easier to </tspan><tspan x="-173.197" y="40">give to those in need.</tspan></text>
+      <text id="Explore-2" data-name="Explore" class="cls-12" transform="translate(973 1214.614)"><tspan x="-196.416" y="0">At vero eos et accusamus et iusto odio </tspan><tspan x="-248.281" y="30">dignissimos ducimus qui blanditiis praesentium</tspan><tspan x="-257.521" y="60">voluptatum deleniti atque corrupti quos dolores et </tspan><tspan x="-152.35" y="90">quas molestias excepturi sint.</tspan></text>
+      <line id="line-1" class="cls-13" x2="132" transform="translate(903.5 1145.5)"/>
+    </g>
+    <line id="line-2" class="cls-14" x2="65" transform="translate(1522.5 51.5)"/>
+    <g id="group-8" transform="translate(-90 40)">
+      <g id="rectangle-3-2" data-name="rectangle-3" class="cls-15" transform="translate(871 1387.274)">
+        <rect class="cls-37" width="397.16" height="57.726" rx="5" ry="5"/>
+        <rect class="cls-38" x="1" y="1" width="395.16" height="55.726" rx="4" ry="4"/>
+      </g>
+      <text id="Explore-3" data-name="Explore" class="cls-16" transform="translate(1070 1350.614)"><tspan x="-71.763" y="0">Keep updated</tspan></text>
+      <text id="Explore-4" data-name="Explore" class="cls-17" transform="translate(1070 1422.614)"><tspan x="-91.773" y="0">email@gmail.com</tspan></text>
+    </g>
+    <g id="group-12" transform="translate(15 -27)">
+      <text id="A_nice_heading_2" data-name="A nice heading
+" class="cls-11" transform="translate(258 1825)"><tspan x="0" y="0">Have something</tspan><tspan x="0" y="40">you no longer want?</tspan></text>
+      <text id="Explore-5" data-name="Explore" class="cls-18" transform="translate(258 1977)"><tspan x="0" y="0">At vero eos et accusamus et iusto</tspan><tspan x="0" y="30">odio dignissimos ducimus qui </tspan><tspan x="0" y="60">blanditiis praesentium voluptatum</tspan><tspan x="0" y="90">deleniti at vero eos.</tspan></text>
+    </g>
+    <g id="group-13" transform="translate(15 56)">
+      <text id="A_nice_heading_3" data-name="A nice heading
+" class="cls-11" transform="translate(802 1742)"><tspan x="0" y="0">We’ll find </tspan><tspan x="0" y="40">those who need it</tspan></text>
+      <line id="line-1-2" data-name="line-1" class="cls-19" x2="132" transform="translate(802.5 1832.5)"/>
+      <text id="Explore-6" data-name="Explore" class="cls-18" transform="translate(802 1894)"><tspan x="0" y="0">At vero eos et accusamus et iusto</tspan><tspan x="0" y="30">odio dignissimos ducimus qui </tspan><tspan x="0" y="60">blanditiis praesentium voluptatum</tspan><tspan x="0" y="90">deleniti at vero eos.</tspan></text>
+    </g>
+    <g id="group-14" transform="translate(15 56)">
+      <text id="A_nice_heading_4" data-name="A nice heading
+" class="cls-11" transform="translate(1307 1742)"><tspan x="0" y="0">By giving foward,</tspan><tspan x="0" y="40">we’re reducing waste.</tspan></text>
+      <line id="line-1-3" data-name="line-1" class="cls-19" x2="132" transform="translate(1307.5 1832.5)"/>
+      <text id="Explore-7" data-name="Explore" class="cls-18" transform="translate(1307 1894)"><tspan x="0" y="0">At vero eos et accusamus et iusto</tspan><tspan x="0" y="30">odio dignissimos ducimus qui </tspan><tspan x="0" y="60">blanditiis praesentium voluptatum</tspan><tspan x="0" y="90">deleniti at vero eos.</tspan></text>
+    </g>
+    <path id="path-11" data-name="path" class="cls-6" d="M131.542,3519.463a13.425,13.425,0,0,1,7.584,1.967q2.953,1.967,3.009,4.571,0,1.273-3.068,2.315a22.651,22.651,0,0,1-7.524.983,31.993,31.993,0,0,1-4.746-.349v.4a.984.984,0,0,0,.059.4q0,2.371-5.558,4.167a46.907,46.907,0,0,1-13.832,1.867q-8.682,0-14-1.867t-5.324-4.167a2.47,2.47,0,0,1,.059-.464.7.7,0,0,0,0-.4,35.74,35.74,0,0,1-4.8.4,24.338,24.338,0,0,1-7.64-.983q-2.894-.983-2.953-2.315,0-2.6,2.894-4.571a13.479,13.479,0,0,1,7.7-1.967q5.673,0,8.741,2.894,5.723-4.7,15.332-4.7t15.338,4.689Q125.813,3519.466,131.542,3519.463Zm-40.631-9.317A7.572,7.572,0,0,1,78,3515.455a6.78,6.78,0,0,1-2.141-5.324A8.038,8.038,0,0,1,78,3504.806a6.967,6.967,0,0,1,5.383-2.2,7.188,7.188,0,0,1,5.268,2.2,7.468,7.468,0,0,1,2.256,5.34Zm31.66-10.58a14.411,14.411,0,0,1-4.456,10.649,15.092,15.092,0,0,1-21.3,0,14.209,14.209,0,0,1-4.4-10.649,14.626,14.626,0,0,1,4.4-10.58,14.921,14.921,0,0,1,10.649-4.456,13.748,13.748,0,0,1,10.649,4.456,15.282,15.282,0,0,1,4.459,10.568Zm16.555,10.58a7.509,7.509,0,0,1-7.584,7.509,7.129,7.129,0,0,1-5.324-2.2,7.562,7.562,0,0,1-2.2-5.324,6.967,6.967,0,0,1,2.2-5.324,7.378,7.378,0,0,1,5.324-2.2,7.577,7.577,0,0,1,5.383,2.2A6.712,6.712,0,0,1,139.126,3510.146Z" transform="translate(744.2 -1813.165)"/>
+    <path id="path-12" data-name="path" class="cls-6" d="M677.081,3514.314a2.908,2.908,0,0,1,2.141-.868,2.722,2.722,0,0,1,2.085.868l11.227,11.172L681.3,3536.654a2.842,2.842,0,0,1-2.085.868,3.038,3.038,0,0,1-2.141-.868,2.643,2.643,0,0,1-.868-2.141,3.242,3.242,0,0,1,.868-2.141l3.877-3.877h-6.245a12.575,12.575,0,0,1-9.609-4.456,15.56,15.56,0,0,1,.4-21.242,13.827,13.827,0,0,1,10.649-4.4,3.038,3.038,0,0,1,2.141.868,2.76,2.76,0,0,1,.934,2.085,2.943,2.943,0,0,1-.934,2.141,2.741,2.741,0,0,1-2.141.869,8.755,8.755,0,0,0-6.426,2.664,8.554,8.554,0,0,0-2.6,6.426,9.77,9.77,0,0,0,2.256,6.367,6.921,6.921,0,0,0,5.324,2.664h6.258l-3.877-3.937a2.841,2.841,0,0,1-.868-2.085A3.037,3.037,0,0,1,677.081,3514.314ZM701.8,3498.4a12.463,12.463,0,0,1,9.55,4.4,15.492,15.492,0,0,1,4.045,10.649,13.947,13.947,0,0,1-4.456,10.58,15.217,15.217,0,0,1-10.58,4.456,2.908,2.908,0,0,1-2.141-.868,3.112,3.112,0,0,1-.933-2.141,2.42,2.42,0,0,1,.933-2.085,3.944,3.944,0,0,1,2.141-.934,8.565,8.565,0,0,0,6.367-2.664,9,9,0,0,0,2.664-6.366,9.367,9.367,0,0,0-2.256-6.426,6.679,6.679,0,0,0-5.324-2.664h-6.261l3.806,3.958a3.074,3.074,0,0,1,0,4.282,2.934,2.934,0,0,1-4.167,0l-11.215-11.224,11.227-11.171a2.934,2.934,0,0,1,4.167,0,3.074,3.074,0,0,1,0,4.282l-3.821,3.937Z" transform="translate(660.964 -1814.465)"/>
+    <path id="path-13" data-name="path" class="cls-6" d="M936,3529.729q0-4.8,4.979-8.452t13.141-3.659q7.87,0,12.964,3.647t5.094,8.452q0,2.372-5.15,4.167a40.84,40.84,0,0,1-12.908,1.867,38.545,38.545,0,0,1-13.138-1.867Q935.933,3532.016,936,3529.729Zm18.117-45.262a14.348,14.348,0,0,1,10.58,4.456,14.767,14.767,0,0,1,4.456,10.58,14.377,14.377,0,0,1-4.456,10.649,14.083,14.083,0,0,1-10.58,4.4,15.594,15.594,0,0,1-10.649-4.387,13.45,13.45,0,0,1-4.4-10.649,14.938,14.938,0,0,1,4.4-10.58,15.251,15.251,0,0,1,10.652-4.469Z" transform="translate(-663.385 -1809.127)"/>
+    <rect id="rectangle-1-7" data-name="rectangle-1" class="cls-2" width="1920" height="817" transform="translate(3 2190)"/>
+    <g id="group-18" transform="translate(-85 -13)">
+      <g id="group-16" transform="translate(0 -46)">
+        <text id="A_nice_heading_5" data-name="A nice heading
+" class="cls-20" transform="translate(359 2494)"><tspan x="0" y="0">Take part</tspan><tspan x="0" y="55">in something big.</tspan></text>
+        <text id="A_nice_heading_6" data-name="A nice heading
+" class="cls-21" transform="translate(359 2611)"><tspan x="0" y="0">Let’s collaborate.</tspan></text>
+      </g>
+      <line id="line-1-4" data-name="line-1" class="cls-19" x2="132" transform="translate(359.5 2618.5)"/>
+      <text id="Explore-8" data-name="Explore" class="cls-18" transform="translate(359 2684)"><tspan x="0" y="0">Open source is our agenda, et iusto</tspan><tspan x="0" y="30">odio dignissimos ducimus qui </tspan><tspan x="0" y="60">blanditiis praesentium voluptatum</tspan><tspan x="0" y="90">deleniti at vero eos.</tspan></text>
+    </g>
+    <line id="line-1-5" data-name="line-1" class="cls-19" x2="132" transform="translate(273.5 1888.5)"/>
+    <g id="group-23" transform="translate(3 30)">
+      <g id="group-20">
+        <path id="path-14" data-name="path" class="cls-22" d="M1978.235,2385.192c0,7.889-8.781,14.271-19.623,14.271a27.92,27.92,0,0,1-4.906-.446,23.4,23.4,0,0,1-7.749,3.568,20.323,20.323,0,0,1-2.4.446h-.082a.946.946,0,0,1-.892-.808c-.112-.529.251-.864.557-1.227a14.408,14.408,0,0,0,3.261-4.628c-4.513-2.62-7.414-6.662-7.414-11.177,0-7.888,8.781-14.271,19.623-14.271S1978.235,2377.3,1978.235,2385.192Zm-35.68,0c0,3.066,2.063,6.021,5.63,8.084l2.7,1.559-.976,2.341c.585-.335,1.171-.7,1.728-1.087l1.227-.864,1.477.279a23.983,23.983,0,0,0,4.267.391c8.7,0,16.055-4.906,16.055-10.7s-7.359-10.7-16.055-10.7-16.057,4.908-16.057,10.706Zm42.23,22.94c.307.363.669.7.557,1.227a.951.951,0,0,1-.976.808,20.422,20.422,0,0,1-2.4-.446,23.4,23.4,0,0,1-7.749-3.568,27.92,27.92,0,0,1-4.906.446,24.18,24.18,0,0,1-13.157-3.679c.808.055,1.641.111,2.453.111a27.371,27.371,0,0,0,15.972-4.85c4.655-3.4,7.221-8,7.221-12.99a14.455,14.455,0,0,0-.641-4.237c4.711,2.592,7.777,6.718,7.777,11.373,0,4.544-2.9,8.557-7.414,11.177a14.377,14.377,0,0,0,3.26,4.627Z" transform="translate(-1123.99 75.08)"/>
+        <text id="A_nice_heading_7" data-name="A nice heading
+" class="cls-23" transform="translate(929 2478)"><tspan x="0" y="0">Ideas.</tspan></text>
+      </g>
+      <g id="group-22" transform="translate(0 -123)">
+        <path id="path-15" data-name="path" class="cls-22" d="M3546.982,2362.227a8.03,8.03,0,0,1-8.027,8.028h-6.242c-.892,0-1.812,0-1.812-1.338v-6.663a5.047,5.047,0,0,0-1.449-3.958c4.766-.529,9.784-2.341,9.784-10.564a8.248,8.248,0,0,0-2.2-5.744,7.74,7.74,0,0,0-.223-5.686c-1.784-.557-5.881,2.2-5.881,2.2a20.12,20.12,0,0,0-10.7,0s-4.1-2.76-5.908-2.2a7.835,7.835,0,0,0-.2,5.686,8.243,8.243,0,0,0-2.2,5.744c0,8.195,4.99,10.034,9.756,10.564a4.63,4.63,0,0,0-1.365,2.872c-1.227.557-4.349,1.5-6.216-1.784a4.489,4.489,0,0,0-3.289-2.2c-2.091-.028-.14,1.313-.14,1.313,1.4.641,2.369,3.118,2.369,3.118,1.255,3.819,7.221,2.537,7.221,2.537,0,1.784.028,4.267.028,4.766,0,1.338-.948,1.338-1.84,1.338H3512.2a8.03,8.03,0,0,1-8.028-8.027v-26.761a8.029,8.029,0,0,1,8.026-8.028h26.761a8.029,8.029,0,0,1,8.028,8.026Zm-35.066-3.986c-.164-.082-.251-.223-.2-.335.056-.082.2-.112.363-.056.164.082.251.223.2.335A.282.282,0,0,1,3511.917,2358.242Zm.78.808c-.14-.164-.164-.363-.056-.446.111-.112.307-.056.445.082.14.164.164.363.056.446C3513.031,2359.244,3512.836,2359.189,3512.7,2359.05Zm1.282,1.337c-.112.082-.335,0-.474-.2s-.139-.418,0-.5a.337.337,0,0,1,.474.164.388.388,0,0,1,0,.532Zm.613,1.088c-.2-.164-.251-.418-.112-.529.112-.14.363-.112.557.082.164.164.223.418.111.529-.111.141-.363.113-.557-.082Zm1.616.948c-.251-.055-.418-.251-.363-.417a.445.445,0,0,1,.529-.2c.251.082.418.279.363.446A.406.406,0,0,1,3516.209,2362.423Zm1.84.279c-.279.028-.474-.112-.474-.307,0-.164.2-.307.447-.307.251-.028.473.112.473.307,0,.167-.2.307-.447.307Zm1.672-.2c-.251.056-.474-.056-.5-.223-.028-.2.139-.363.391-.418.251-.028.473.082.5.251S3519.972,2362.45,3519.721,2362.507Z" transform="translate(-2685.17 407.56)"/>
+        <text id="A_nice_heading_8" data-name="A nice heading
+" class="cls-23" transform="translate(929 2769)"><tspan x="0" y="0">Developers.</tspan></text>
+      </g>
+      <g id="group-21" transform="translate(0 -62)">
+        <text id="A_nice_heading_9" data-name="A nice heading
+" class="cls-23" transform="translate(929 2624)"><tspan x="0" y="0">Passion.</tspan></text>
+        <path id="path-3-2" data-name="path-3" class="cls-22" d="M1991.355,1432.587c-1.849,1.818-3.954,3.7-6.219,5.612l-.638,12.087a1.166,1.166,0,0,1-.511.829l-12.246,7.144a.938.938,0,0,1-.51.128,1.126,1.126,0,0,1-.733-.287l-2.041-2.041a1.1,1.1,0,0,1-.255-1.021l2.71-8.8-8.961-8.961-8.8,2.71a.892.892,0,0,1-.287.032,1.065,1.065,0,0,1-.733-.287l-2.041-2.041a1.069,1.069,0,0,1-.16-1.244l7.144-12.246a1.166,1.166,0,0,1,.829-.511l12.086-.637c1.913-2.265,3.795-4.369,5.612-6.219,7.973-7.941,14.064-10.492,25.161-10.492a1.064,1.064,0,0,1,1.084,1.021C2001.846,1417.95,1998.912,1425,1991.355,1432.587Zm.287-19.1a3.061,3.061,0,1,0,3.062,3.062,3.062,3.062,0,0,0-3.062-3.062Z" transform="translate(-1135.798 1178.66)"/>
+      </g>
+    </g>
+    <g id="group-25" transform="translate(429 -199.613)">
+      <text id="Explore-9" data-name="Explore" class="cls-16" transform="translate(968 2698.614)"><tspan x="-153.581" y="0">Sign up or check out our </tspan><tspan class="cls-6" y="0">repo.</tspan></text>
+      <g id="group-24" transform="translate(0 88)">
+        <g id="rectangle-3-3" data-name="rectangle-3" class="cls-24" transform="translate(814 2735.274)">
+          <rect class="cls-37" width="436.16" height="57.726" rx="5" ry="5"/>
+          <rect class="cls-38" x="1" y="1" width="434.16" height="55.726" rx="4" ry="4"/>
+        </g>
+        <text id="Explore-10" data-name="Explore" class="cls-25" transform="translate(933.455 2770.614)"><tspan x="-91.773" y="0">email@gmail.com</tspan></text>
+      </g>
+      <g id="group-24-2" data-name="group-24">
+        <g id="rectangle-3-4" data-name="rectangle-3" class="cls-24" transform="translate(814 2735.274)">
+          <rect class="cls-37" width="159.16" height="57.726" rx="5" ry="5"/>
+          <rect class="cls-38" x="1" y="1" width="157.16" height="55.726" rx="4" ry="4"/>
+        </g>
+        <g id="rectangle-3-5" data-name="rectangle-3" class="cls-24" transform="translate(1007 2735.274)">
+          <rect class="cls-37" width="243.16" height="57.726" rx="5" ry="5"/>
+          <rect class="cls-38" x="1" y="1" width="241.16" height="55.726" rx="4" ry="4"/>
+        </g>
+        <text id="Explore-11" data-name="Explore" class="cls-25" transform="translate(890 2770.614)"><tspan x="-52.536" y="0">first name</tspan></text>
+        <text id="Explore-12" data-name="Explore" class="cls-25" transform="translate(1087 2770.614)"><tspan x="-50.523" y="0">last name</tspan></text>
+      </g>
+      <path id="rectangle-3-6" data-name="rectangle-3" class="cls-26" d="M3.513,1H149.985c1.388,0,2.513,1.791,2.513,4V52.726c0,2.209-1.125,4-2.513,4H3.513c-1.388,0-2.513-1.791-2.513-4V5C1,2.791,2.125,1,3.513,1Z" transform="translate(1096.661 2911.274)"/>
+      <text id="Explore-13" data-name="Explore" class="cls-27" transform="translate(1173 2946.614)"><tspan x="-38.61" y="0">Sign up</tspan></text>
+    </g>
+    <g id="group-26" transform="translate(3 -1)">
+      <text id="A_nice_heading_10" data-name="A nice heading
+" class="cls-20" transform="translate(773 3155)"><tspan x="0" y="0">Stay in touch.</tspan></text>
+      <g id="rectangle-3-7" data-name="rectangle-3" class="cls-28" transform="translate(773 3293.661)">
+        <rect class="cls-37" width="436.16" height="57.726" rx="5" ry="5"/>
+        <rect class="cls-38" x="1" y="1" width="434.16" height="55.726" rx="4" ry="4"/>
+      </g>
+      <text id="Explore-14" data-name="Explore" class="cls-29" transform="translate(892.455 3329)"><tspan x="-91.773" y="0">email@gmail.com</tspan></text>
+      <g id="rectangle-3-8" data-name="rectangle-3" class="cls-30" transform="translate(1240 3205.661)">
+        <rect class="cls-37" width="436.16" height="146.089" rx="5" ry="5"/>
+        <rect class="cls-38" x="1" y="1" width="434.16" height="144.089" rx="4" ry="4"/>
+      </g>
+      <g id="rectangle-3-9" data-name="rectangle-3" class="cls-31" transform="translate(773 3205.661)">
+        <rect class="cls-37" width="159.16" height="57.726" rx="5" ry="5"/>
+        <rect class="cls-38" x="1" y="1" width="157.16" height="55.726" rx="4" ry="4"/>
+      </g>
+      <text id="Explore-15" data-name="Explore" class="cls-29" transform="translate(336.455 3220)"><tspan x="-76.747" y="0">Contact details</tspan></text>
+      <g id="rectangle-3-10" data-name="rectangle-3" class="cls-31" transform="translate(966 3205.661)">
+        <rect class="cls-37" width="243.16" height="57.726" rx="5" ry="5"/>
+        <rect class="cls-38" x="1" y="1" width="241.16" height="55.726" rx="4" ry="4"/>
+      </g>
+      <path id="rectangle-3-11" data-name="rectangle-3" class="cls-32" d="M3.513,1H149.985c1.388,0,2.513,1.791,2.513,4V52.726c0,2.209-1.125,4-2.513,4H3.513c-1.388,0-2.513-1.791-2.513-4V5C1,2.791,2.125,1,3.513,1Z" transform="translate(1523.661 3377.661)"/>
+      <text id="Explore-16" data-name="Explore" class="cls-25" transform="translate(1600 3413)"><tspan x="-37.455" y="0">Submit</tspan></text>
+      <text id="Explore-17" data-name="Explore" class="cls-33" transform="translate(258 3271)"><tspan x="0" y="0">our agenda, et iusto</tspan><tspan x="0" y="30">ssimos ducimus qui </tspan><tspan x="0" y="60">esentium voluptatum</tspan><tspan x="0" y="90">deleniti at vero eos.</tspan></text>
+      <text id="Explore-18" data-name="Explore" class="cls-29" transform="translate(849 3241)"><tspan x="-52.536" y="0">first name</tspan></text>
+      <text id="Explore-19" data-name="Explore" class="cls-29" transform="translate(1046 3241)"><tspan x="-50.523" y="0">last name</tspan></text>
+      <g id="group-5-2" data-name="group-5" transform="translate(213.229 3085)">
+        <path id="path-16" data-name="path" class="cls-5" d="M-2815.46,3757.29" transform="translate(2944.514 -3713.365)"/>
+        <path id="path-17" data-name="path" class="cls-6" d="M-2826,3776.14h-7.236v-26.41h7.228Z" transform="translate(2948.695 -3711.586)"/>
+        <path id="path-18" data-name="path" class="cls-6" d="M-2781.852,3765.142h-18.562a6.721,6.721,0,0,0,2.639,3.87,8.223,8.223,0,0,0,4.826,1.362,11.868,11.868,0,0,0,7.366-2.67l2.99,4.911a15.986,15.986,0,0,1-10.562,3.947,14.284,14.284,0,0,1-10.348-3.978,13.147,13.147,0,0,1-4.107-9.843,13.391,13.391,0,0,1,3.977-9.813,13.323,13.323,0,0,1,9.844-4,12.034,12.034,0,0,1,8.964,3.519,11.979,11.979,0,0,1,3.465,8.75A17.089,17.089,0,0,1-2781.852,3765.142Zm-16.214-8.964a7.375,7.375,0,0,0-2.348,3.894h12.054a5.054,5.054,0,0,0-1.706-3.893,5.883,5.883,0,0,0-4-1.438A6.01,6.01,0,0,0-2798.066,3756.178Z" transform="translate(2942.668 -3711.395)"/>
+        <path id="path-19" data-name="path" class="cls-6" d="M-2744.788,3764.457a11.909,11.909,0,0,1-3.442,8.879,11.855,11.855,0,0,1-8.666,3.388,12.037,12.037,0,0,1-8.773-3.357,11.884,11.884,0,0,1-3.442-8.911V3749.68h7.2v15.366a4.924,4.924,0,0,0,1.415,3.678,4.925,4.925,0,0,0,3.6,1.385,4.8,4.8,0,0,0,3.5-1.384,4.93,4.93,0,0,0,1.415-3.679V3749.68h7.2Z" transform="translate(2933.614 -3711.575)"/>
+        <path id="path-20" data-name="path" class="cls-6" d="M-2713.413,3752.857l-3.626,4.428a8.459,8.459,0,0,0-5.92-2.508q-2.83,0-2.83,1.867a1.53,1.53,0,0,0,.612,1.253,8.111,8.111,0,0,0,2.156,1.094l2.563,1.071a16.954,16.954,0,0,1,5.629,3.334,6.386,6.386,0,0,1,1.79,4.72,7.38,7.38,0,0,1-2.906,6.188,11.757,11.757,0,0,1-7.388,2.24q-7.045,0-10.937-5.124l3.625-4.375q3.465,3.572,7.411,3.572a4.7,4.7,0,0,0,2.4-.559,1.782,1.782,0,0,0,.964-1.628,1.53,1.53,0,0,0-.612-1.308,11.377,11.377,0,0,0-2.1-1.094l-2.83-1.17a16.318,16.318,0,0,1-5.415-3.3,6.477,6.477,0,0,1-1.79-4.75,7,7,0,0,1,2.692-5.844,11.066,11.066,0,0,1,7.013-2.1A12.109,12.109,0,0,1-2713.413,3752.857Z" transform="translate(2925.421 -3711.378)"/>
+        <path id="path-21" data-name="path" class="cls-6" d="M-2678.341,3765.142H-2696.9a6.73,6.73,0,0,0,2.638,3.87,8.226,8.226,0,0,0,4.827,1.361,11.865,11.865,0,0,0,7.365-2.669l2.99,4.911a15.99,15.99,0,0,1-10.562,3.947,14.284,14.284,0,0,1-10.348-3.978,13.146,13.146,0,0,1-4.108-9.843,13.391,13.391,0,0,1,3.978-9.813,13.314,13.314,0,0,1,9.843-4,12.033,12.033,0,0,1,8.963,3.519,11.976,11.976,0,0,1,3.465,8.75,17.045,17.045,0,0,1-.489,3.947Zm-16.215-8.964a7.375,7.375,0,0,0-2.348,3.893h12.053a5.055,5.055,0,0,0-1.705-3.893,5.88,5.88,0,0,0-4-1.438,6.012,6.012,0,0,0-4.008,1.438Z" transform="translate(2918.327 -3711.396)"/>
+        <path id="path-22" data-name="path" class="cls-6" d="M-2819.66,3752.134v4.459h4.459c3.534,0,6.119-4.077,3.289-7.786C-2815.583,3746.015-2819.66,3748.6-2819.66,3752.134Z" transform="translate(2945.501 -3711.092)"/>
+        <path id="path-23" data-name="path" class="cls-6" d="M-2656.8,3762.932v13.178h-7.2V3749.7h7.228Z" transform="translate(2908.896 -3711.579)"/>
+        <path id="path-24" data-name="path" class="cls-6" d="M-2650.41,3752.134v4.459h4.459c3.534,0,6.119-4.077,3.289-7.786C-2646.333,3746.015-2650.41,3748.6-2650.41,3752.134Z" transform="translate(2905.7 -3711.092)"/>
+        <path id="path-25" data-name="path" class="cls-2" d="M-2884.868,3768.446l.4-.7a22.18,22.18,0,0,0,2.96-11.051c0-12.238-9.025-21.53-20.987-21.53a23.28,23.28,0,0,0-20.513,12.337l-.275.55a7.036,7.036,0,0,0-.765,3.128v22.486c0,1.9,2,4.9,2,4.9s3.059,2.1,5,2.1l27.351-.069a6.981,6.981,0,0,0,6.47-4.321,6.959,6.959,0,0,0-1.139-7.228Zm-7.648.581,2.776,2.776a1.123,1.123,0,0,1,.25,1.212,1.127,1.127,0,0,1-1.015.708h-12.153a1.125,1.125,0,0,1-1.124-1.125v-12.153a1.124,1.124,0,0,1,.708-1.015,1.126,1.126,0,0,1,1.212.25l2.639,2.639a1.112,1.112,0,0,0,.84.327,1.11,1.11,0,0,0,.8-.4,8.5,8.5,0,0,0,2.011-5.437c0-4.528-2.73-7.457-6.945-7.457a8.98,8.98,0,0,0-7.228,3.594,1.117,1.117,0,0,0-.229.681v19.067a1.125,1.125,0,0,1-1.124,1.125h-5.017a1.124,1.124,0,0,1-1.124-1.125v-21.048a1.128,1.128,0,0,1,.115-.505l.26-.528a16.368,16.368,0,0,1,14.341-8.543c8.237,0,14.211,6.2,14.211,14.723a16.064,16.064,0,0,1-4.245,10.708,1.116,1.116,0,0,0,.061,1.53Z" transform="translate(2970.05 -3708.16)"/>
+      </g>
+      <text id="Explore-20" data-name="Explore" class="cls-29" transform="translate(1265 3241)"><tspan x="0" y="0">message</tspan></text>
+      <line id="line-3" class="cls-34" y2="322" transform="translate(622.5 3112.5)"/>
+    </g>
+    <path id="path-4-2" data-name="path-4" class="cls-35" d="M574,888c2.273.906,1348.352-799.977,1348.352-799.977V888S571.727,887.094,574,888Z"/>
+    <text id="A_nice_heading_11" data-name="A nice heading
+" class="cls-20" transform="translate(362 367)"><tspan x="0" y="0">A simple heading</tspan><tspan x="0" y="55">that emotionally explains</tspan><tspan x="0" y="110">this platform’s purpose.</tspan></text>
+    <path id="path-5-2" data-name="path-5" class="cls-36" d="M1923,888c.727-6.938-128.008-554.345-128.008-554.345L1430.414,146.82,571.953,888,1923,529.6Z"/>
+  </g>
+</svg>
