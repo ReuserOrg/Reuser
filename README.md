@@ -41,6 +41,7 @@ Reuser targets both problems at once by providing an easy to use platform for pe
 - Use 2 / 4 __space__ indenting 
 - Use capitals for components
 - Capital case for the reducer functions
+- No semi-colons on JS files
 - Review previous code to see examples..
 - Issue an issue if you think something could be done better
 
