@@ -30,11 +30,13 @@ class App extends Component {
         <MuiThemeProvider>
           <Nav />
         </MuiThemeProvider>
-          <Splash />
-          <Intro />
-          <About />
-          <Join />
-          <Footer />
+        <MuiThemeProvider>
+          <Splash title="A simple heading that emotionally explains the purpose of the platform." />
+        </MuiThemeProvider>
+        <Intro />
+        <About />
+        <Join />
+        <Footer />
       </div>
     );
   }
