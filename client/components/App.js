@@ -26,7 +26,9 @@ class App extends Component {
         <MuiThemeProvider>
           <Nav />
         </MuiThemeProvider>
-          <Splash />
+        <MuiThemeProvider>
+          <Splash title="A simple heading that emotionally explains the purpose of the platform." />
+        </MuiThemeProvider>
       </div>
     );
   }

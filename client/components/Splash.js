@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import Nav from './Nav';
+import RaisedButton from 'material-ui/RaisedButton';
 
 class Splash extends Component {
   static propTypes = {
@@ -16,7 +16,8 @@ class Splash extends Component {
   render() {
     return (
       <div>
-        <h1>This is working!</h1>
+        <h1>{this.props.title}</h1>
+        <RaisedButton label="Explore" />
       </div>
     );
   }
