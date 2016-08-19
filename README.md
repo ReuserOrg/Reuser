@@ -1,6 +1,5 @@
-![Reuser](https://github.com/Olwiba/Reuser/blob/master/public/resources/images/logo.svg?raw=true "Reuser")
+![Reuser](https://github.com/ReuserOrg/Reuser/blob/master/public/resources/images/logo.png?raw=true "Reuser")
 
-//Who
 
 ## The Team
 
@@ -11,7 +10,6 @@ At this time the major the developers that have contributed to the development o
 - Cam Hawkes / Camcan / Mr.Campbell.Hawkes@gmail.com
 - Sean Johnson / sean-johnson / Hello@Seanjohnson.com
 
-//What
 
 ## What is Reuser?
 
@@ -22,13 +20,11 @@ This service is designed to always be free, Built by people for people and solvi
 
 More to be added later... Work in progress.
 
-//When
 
 ## When
 
 __Reuser__ is still in early Alpha stage so until there is a solid skeleton developed, contribution to source code is limited. However if your really keen to have your input or have some advice around technologies that we are using feel free to contact the team on slack.  
 
-//Why
 
 ## Why Build Reuser?
 
@@ -36,7 +32,6 @@ Around the world waste managment is a massive issue, the impact this has on the 
 
 Reuser targets both problems at once by providing an easy to use platform for people to easily give away items that they no longer need and also providing a place for people living in poverty to find items they require.
 
-//How
 
 ## Want to contribute?
 
@@ -72,5 +67,6 @@ Come join us over on [our Slack team page](https://reuser.slack.com).
 - Sass
 - Tape + Tap-Spec
 - Webpack
+- Web Sockets
 
 More to come...
