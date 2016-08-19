@@ -9,6 +9,7 @@ At this time the major the developers that have contributed to the development o
 - Ollie Bannister / Olwiba / Olwiba@gmail.com (Founder)
 - Cam Hawkes / Camcan / Mr.Campbell.Hawkes@gmail.com
 - Sean Johnson / sean-johnson / Hello@Seanjohnson.com
+- Marcus Crane / Marcus-crane / Marcus@thingsima.de
 
 
 ## What is Reuser?
