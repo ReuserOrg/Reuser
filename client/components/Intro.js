@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 
-class Splash extends Component {
+class Intro extends Component {
   static propTypes = {
     //propTypes go here
   };
@@ -15,10 +15,10 @@ class Splash extends Component {
   render() {
     return (
       <div>
-        <h1>Splash!</h1>
+        <h1>Intro</h1>
       </div>
     );
   }
 }
 
-export default Splash;
+export default Intro;
