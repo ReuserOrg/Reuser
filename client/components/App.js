@@ -1,10 +1,14 @@
-import React, { Component, PropTypes } from 'react';
-import ReactDOM from 'react-dom';
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import injectTapEventPlugin from 'react-tap-event-plugin';
+import React, { Component, PropTypes } from 'react'
+import ReactDOM from 'react-dom'
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
+import injectTapEventPlugin from 'react-tap-event-plugin'
 
-import Nav from './Nav';
-import Splash from './Splash';
+import Nav from './Nav'
+import Splash from './Splash'
+import Intro from './Intro'
+import About from './About'
+import Join from './Join'
+import Footer from './Footer'
 
 injectTapEventPlugin();
 
@@ -27,6 +31,10 @@ class App extends Component {
           <Nav />
         </MuiThemeProvider>
           <Splash />
+          <Intro />
+          <About />
+          <Join />
+          <Footer />
       </div>
     );
   }
