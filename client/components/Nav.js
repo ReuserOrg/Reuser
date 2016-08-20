@@ -16,8 +16,14 @@ class Nav extends Component {
   render() {
     return (
       <div className='navigation'>
-      Hi
-  		  <RaisedButton label="Button" />
+        <div className='logoContainer'>
+          <img src='/resources/images/logo-white.png' alt='Reuser' className='logo' />
+        </div>
+        <div className='navContainer'>
+          <a href='#'><h4 className='navActive' >About</h4></a>
+          <a href='#'><h4>Collaborate</h4></a>
+          <a href='#'><h4>Contact</h4></a>
+        </div>
       </div>
     );
   }
