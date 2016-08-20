@@ -19,6 +19,7 @@ $white: #FFFFFF;
 
 h1, h2, h3, h4 {
 	/*font-family: */
+	margin-top: 0;
 }
 
 h1 {
@@ -36,6 +37,7 @@ h3 {
 h4 {
 	font-size: 16px;
 	color: $white;
+	margin-bottom: 0;
 }
 
 a {
