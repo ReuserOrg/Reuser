@@ -15,9 +15,14 @@ class Intro extends Component {
 
   render() {
     return (
-      <div>
-        <h1>{this.state.title}</h1>
-        <p>{this.state.paragraph}</p>
+      <div className='intro'>
+        <div className='introInfo'>
+          <h1>{this.state.title}</h1>
+          <p>{this.state.paragraph}</p>
+        </div>
+        <div className='introUpdated'>
+          <h3>Keep Updated</h3>
+        </div>
       </div>
     );
   }

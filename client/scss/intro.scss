@@ -1,0 +1,25 @@
+.intro {
+	height: 75vh;
+	
+	.introInfo {
+		height: 65%;
+		background: $white;
+	    display:flex;
+	    flex-direction: column;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	    align-content: flex-start;
+	    align-items: center;
+	}
+
+	.introUpdated {
+		height: 35%;
+		background: $grey-light;
+		display:flex;
+	    flex-direction: column;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	    align-content: flex-start;
+	    align-items: center;
+	}
+}
