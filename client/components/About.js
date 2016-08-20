@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component, PropTypes } from 'react'
 
 class About extends Component {
   static propTypes = {
@@ -6,7 +6,7 @@ class About extends Component {
   };
 
   constructor(props) {
-    super(props);
+    super(props)
     this.state = {
       //state goes here
     };
@@ -21,4 +21,4 @@ class About extends Component {
   }
 }
 
-export default About;
+export default About

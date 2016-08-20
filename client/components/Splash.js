@@ -1,16 +1,16 @@
-import React, { Component, PropTypes } from 'react';
-import RaisedButton from 'material-ui/RaisedButton';
+import React, { Component, PropTypes } from 'react'
+import RaisedButton from 'material-ui/RaisedButton'
 
 class Splash extends Component {
   static propTypes = {
     //propTypes go here
-  };
+  }
 
   constructor(props) {
-    super(props);
+    super(props)
     this.state = {
       //state goes here
-    };
+    }
   }
 
   render() {
@@ -19,8 +19,8 @@ class Splash extends Component {
         <h1>{this.props.title}</h1>
         <RaisedButton label="Explore" />
       </div>
-    );
+    )
   }
 }
 
-export default Splash;
+export default Splash

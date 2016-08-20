@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component, PropTypes } from 'react'
 
 class Footer extends Component {
   static propTypes = {
@@ -6,7 +6,7 @@ class Footer extends Component {
   };
 
   constructor(props) {
-    super(props);
+    super(props)
     this.state = {
       //state goes here
     };
@@ -21,4 +21,4 @@ class Footer extends Component {
   }
 }
 
-export default Footer;
+export default Footer
