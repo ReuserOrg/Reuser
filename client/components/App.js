@@ -10,7 +10,7 @@ import About from './About'
 import Join from './Join'
 import Footer from './Footer'
 
-injectTapEventPlugin();
+injectTapEventPlugin()
 
 class App extends Component {
   static propTypes = {
@@ -18,7 +18,7 @@ class App extends Component {
   };
 
   constructor(props) {
-    super(props);
+    super(props)
     this.state = {
       //state goes here
     };
@@ -42,4 +42,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default App

@@ -1,16 +1,16 @@
-import React, { Component, PropTypes } from 'react';
-import RaisedButton from 'material-ui/RaisedButton';
+import React, { Component, PropTypes } from 'react'
+import RaisedButton from 'material-ui/RaisedButton'
 
 class Nav extends Component {
   static propTypes = {
     //propTypes go here
-  };
+  }
 
   constructor(props) {
     super(props);
     this.state = {
       //state goes here
-    };
+    }
   }
 
   render() {
@@ -19,8 +19,8 @@ class Nav extends Component {
       Hi
   		  <RaisedButton label="Button" />
       </div>
-    );
+    )
   }
 }
 
-export default Nav;
+export default Nav

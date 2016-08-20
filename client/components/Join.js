@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component, PropTypes } from 'react'
 
 class Join extends Component {
   static propTypes = {
@@ -6,7 +6,7 @@ class Join extends Component {
   };
 
   constructor(props) {
-    super(props);
+    super(props)
     this.state = {
       //state goes here
     };
@@ -17,8 +17,8 @@ class Join extends Component {
       <div>
         <h1>Join</h1>
       </div>
-    );
+    )
   }
 }
 
-export default Join;
+export default Join
