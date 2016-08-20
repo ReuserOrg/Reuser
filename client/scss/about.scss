@@ -1,0 +1,21 @@
+.about {
+	height: 75vh;
+	background: $yellow;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    align-items: center;
+
+    .aboutContent {
+    	height: 75%;
+    	width: 25vw;
+	    display:flex;
+	    flex-direction: column;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	    align-content: flex-start;
+	    align-items: center;
+    }
+}
