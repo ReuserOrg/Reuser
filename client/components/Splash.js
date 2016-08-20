@@ -16,8 +16,10 @@ class Splash extends Component {
   render() {
     return (
       <div>
+        <section id='splash'>
         <h1>{this.props.title}</h1>
         <RaisedButton label="Explore" />
+        </section>
       </div>
     )
   }

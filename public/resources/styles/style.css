@@ -1,8 +1,8 @@
 /* Colours */
 /* Import Styles */
 .navigation {
-  width: 100%;
-  height: 10%;
+  width: 100vw;
+  height: 10vh;
   background: #2A3D45;
   display: flex;
   flex-direction: row;
@@ -25,11 +25,23 @@
     align-content: flex-start;
     align-items: center; }
     .navigation .navContainer .navActive {
-      border-bottom: 3px solid #3F8661; }
+      border-bottom: 3px solid #3F8661;
+      margin-top: 3px; }
+
+#splash {
+  height: 90vh;
+  background: #3F8661;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  align-items: center; }
 
 /* Fonts */
 h1, h2, h3, h4 {
-  /*font-family: */ }
+  /*font-family: */
+  margin-top: 0; }
 
 h1 {
   font-size: 28px; }
@@ -42,7 +54,8 @@ h3 {
 
 h4 {
   font-size: 16px;
-  color: #FFFFFF; }
+  color: #FFFFFF;
+  margin-bottom: 0; }
 
 a {
   text-decoration: none; }
