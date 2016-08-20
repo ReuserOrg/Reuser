@@ -14,7 +14,7 @@
     "build": "cd client && webpack --progress --profile --colors",
     "build:watch": "cd client && webpack --progress --profile --colors --watch",
     "build-css": "node-sass --include-path scss client/scss/main.scss public/resources/styles/style.css",
-    "watch-css": "nodemon -e scss -x \"npm run build-css\"",
+    "build-css:watch": "nodemon -e scss -x \"npm run build-css\"",
     "prepare-deploy": "npm run build-css && npm run build"
   },
   "author": "Olwiba",

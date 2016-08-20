@@ -1,6 +1,43 @@
+/* Colours */
+
+$black: #000000;
+$grey: #2A3D45;
+
+$green-light: #3F8661;
+
+$white: #FFFFFF;
+
+/* Import Styles */
 @import './nav.scss';
 @import './splash.scss';
 @import './intro.scss';
 @import './about.scss';
 @import './join.scss';
 @import './footer.scss';
+
+/* Fonts */
+
+h1, h2, h3, h4 {
+	/*font-family: */
+}
+
+h1 {
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+h4 {
+	font-size: 16px;
+	color: $white;
+}
+
+a {
+	text-decoration: none;
+}
