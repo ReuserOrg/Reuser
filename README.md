@@ -6,10 +6,10 @@
 This is a collaborative project build by a range of developers that wanted to use their skills to create something that could help change the world. 
 At this time the major the developers that have contributed to the development of Reuser are:
 
-- Ollie Bannister / Olwiba / Olwiba@gmail.com (Founder)
-- Cam Hawkes / Camcan / Mr.Campbell.Hawkes@gmail.com
-- Sean Johnson / sean-johnson / Hello@Seanjohnson.com
-- Marcus Crane / Marcus-crane / Marcus@thingsima.de
+- [Ollie Bannister](http://github.com/Olwiba) / [olwiba@gmail.com](mailto:olwiba@gmail.com) (Founder)
+- [Cam Hawkes](http://github.com/Camcan) / [mr.campbell.hawkes@gmail.com](mailto:mr.campbell.hawkes@gmail.com)
+- [Sean Johnson](http://github.com/sean-johnson) / [hello@seanjohnson.com](mailto:hello@seanjohnson.com)
+- [Marcus Crane](http://github.com/marcus-crane) / [marcus@thingsima.de](mailto:marcus@thingsima.de)
 
 
 ## What is Reuser?
